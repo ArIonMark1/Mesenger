@@ -1,0 +1,4 @@
+INFO       7020     2021-11-29 19:13:41,205    Кодирование сообщения {'action': 'presence', 'time': 'Mon Nov 29 19:13:41 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
+INFO       7020     2021-11-29 19:13:41,205    Возвращаем json-строку
+INFO       7020     2021-11-29 19:13:41,205    энкодированая строка: b'{"action": "presence", "time": "Mon Nov 29 19:13:41 2021", "user": {"account_name": "arion", "status": "online"}}'
+INFO       7020     2021-11-29 19:13:41,205    Сообщение успешно отправленно

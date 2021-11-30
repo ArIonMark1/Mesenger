@@ -1,0 +1,8 @@
+INFO       26676    2021-11-06 17:59:02,882    Client Started!
+INFO       26676    2021-11-06 17:59:02,882    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Sat Nov  6 17:59:02 2021', 'user': {'account_name': 'Guest'}} от клиента Guest
+DEBUG      26676    2021-11-06 17:59:02,886    Function started create_presence with params () {}Вызов из функции main().Вызов из функции main
+INFO       26676    2021-11-06 17:59:02,886    Отправляем сообщение серверу: {'action': 'presence', 'time': 'Sat Nov  6 17:59:02 2021', 'user': {'account_name': 'Guest'}}
+INFO       26676    2021-11-06 17:59:02,886    Сообщение серверу отправленно
+INFO       26676    2021-11-06 17:59:02,890    Успешный ответ сервера 200
+DEBUG      26676    2021-11-06 17:59:02,890    Function started process_ans with params ({'response': 200, 'success': 'Welcome Guest!'},) {}Вызов из функции main().Вызов из функции main
+INFO       26676    2021-11-06 17:59:02,890    Сообщение от сервера: 200, Welcome Guest!

@@ -1,0 +1,5 @@
+INFO       2620925  2021-11-10 17:59:55,352    Запуск клиентского сокета <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 38832), raddr=('127.0.0.1', 8888)>
+INFO       2620925  2021-11-10 17:59:55,356    Кодирование сообщения {'action': 'presence', 'time': 'Wed Nov 10 17:59:55 2021', 'user': {'account_name': 'Guest'}}
+INFO       2620925  2021-11-10 17:59:55,356    Возвращаем json-строку
+INFO       2620925  2021-11-10 17:59:55,356    энкодированая строка: b'{"action": "presence", "time": "Wed Nov 10 17:59:55 2021", "user": {"account_name": "Guest"}}'
+INFO       2620925  2021-11-10 17:59:55,356    Сообщение успешно отправленно

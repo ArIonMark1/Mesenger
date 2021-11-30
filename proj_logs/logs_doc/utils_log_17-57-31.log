@@ -1,0 +1,4 @@
+INFO       26488    2021-11-29 17:57:35,758    Возврат словаря {'action': 'presence', 'time': 'Mon Nov 29 17:57:34 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
+INFO       26488    2021-11-29 18:51:01,225    Возврат словаря {'action': 'presence', 'time': 'Mon Nov 29 18:51:00 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
+INFO       26488    2021-11-29 19:13:42,208    Возврат словаря {'action': 'presence', 'time': 'Mon Nov 29 19:13:41 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
+INFO       26488    2021-11-29 19:13:47,832    Возврат словаря {'action': 'presence', 'time': 'Mon Nov 29 19:13:46 2021', 'user': {'account_name': 'arion', 'status': 'online'}}

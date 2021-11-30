@@ -1,0 +1,4 @@
+INFO       5072     2021-11-30 09:50:11,959    Кодирование сообщения {'action': 'presence', 'time': 'Tue Nov 30 09:50:11 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
+INFO       5072     2021-11-30 09:50:11,959    Возвращаем json-строку
+INFO       5072     2021-11-30 09:50:11,959    энкодированая строка: b'{"action": "presence", "time": "Tue Nov 30 09:50:11 2021", "user": {"account_name": "arion", "status": "online"}}'
+INFO       5072     2021-11-30 09:50:11,960    Сообщение успешно отправленно

@@ -1,0 +1,5 @@
+INFO       2605464  2021-11-10 17:59:46,365    Client Started!
+INFO       2605464  2021-11-10 17:59:46,367    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Wed Nov 10 17:59:46 2021', 'user': {'account_name': 'Guest'}} от клиента Guest
+DEBUG      2605464  2021-11-10 17:59:46,370    Function started create_presence with params () {}Вызов из функции main().Вызов из функции main
+INFO       2605464  2021-11-10 17:59:46,370    Отправляем сообщение серверу: {'action': 'presence', 'time': 'Wed Nov 10 17:59:46 2021', 'user': {'account_name': 'Guest'}}
+INFO       2605464  2021-11-10 17:59:46,370    Сообщение серверу отправленно

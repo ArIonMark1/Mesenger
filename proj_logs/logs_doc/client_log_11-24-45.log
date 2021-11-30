@@ -1,0 +1,5 @@
+INFO       19788    2021-11-23 11:24:45,527    Client Started!
+CRITICAL   19788    2021-11-23 11:24:45,528    Client connected to server
+INFO       19788    2021-11-23 11:24:45,538    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Tue Nov 23 11:24:45 2021', 'user': {'account_name': 'Guest', 'status': 'online'}, 'type': 'status'}
+DEBUG      19788    2021-11-23 11:24:45,559    Function started create_presence with params (<__main__.Client object at 0x000001BE5C7A1FA0>,) {}Вызов из функции client.set_up().Вызов из функции set_up
+INFO       19788    2021-11-23 11:24:45,560    Сообщение серверу отправленно

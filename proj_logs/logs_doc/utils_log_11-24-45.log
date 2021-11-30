@@ -1,0 +1,4 @@
+INFO       19788    2021-11-23 11:24:45,559    Кодирование сообщения {'action': 'presence', 'time': 'Tue Nov 23 11:24:45 2021', 'user': {'account_name': 'Guest', 'status': 'online'}, 'type': 'status'}
+INFO       19788    2021-11-23 11:24:45,559    Возвращаем json-строку
+INFO       19788    2021-11-23 11:24:45,560    энкодированая строка: b'{"action": "presence", "time": "Tue Nov 23 11:24:45 2021", "user": {"account_name": "Guest", "status": "online"}, "type": "status"}'
+INFO       19788    2021-11-23 11:24:45,560    Сообщение успешно отправленно

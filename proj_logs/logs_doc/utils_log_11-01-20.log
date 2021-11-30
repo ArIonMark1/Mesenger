@@ -1,0 +1,2 @@
+INFO       10344    2021-11-30 11:01:42,346    Возврат словаря {'action': 'presence', 'time': 'Tue Nov 30 11:01:41 2021', 'user': {'account_name': 'arion_8888', 'status': 'online'}}
+INFO       10344    2021-11-30 11:01:42,346    Кодирование сообщения <socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8888), raddr=('127.0.0.1', 49597)>
