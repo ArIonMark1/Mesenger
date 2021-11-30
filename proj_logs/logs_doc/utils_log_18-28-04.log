@@ -1,1 +1,0 @@
-INFO       28117    2021-11-06 18:28:04,946    Запуск клиентского сокета <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42328), raddr=('127.0.0.1', 8888)>

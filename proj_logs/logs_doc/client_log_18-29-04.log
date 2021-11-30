@@ -1,8 +1,0 @@
-INFO       28142    2021-11-06 18:29:04,504    Client Started!
-INFO       28142    2021-11-06 18:29:04,505    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Sat Nov  6 18:29:04 2021', 'user': {'account_name': 'Guest'}} от клиента Guest
-DEBUG      28142    2021-11-06 18:29:04,508    Function started create_presence with params () {}Вызов из функции main().Вызов из функции main
-INFO       28142    2021-11-06 18:29:04,508    Отправляем сообщение серверу: {'action': 'presence', 'time': 'Sat Nov  6 18:29:04 2021', 'user': {'account_name': 'Guest'}}
-INFO       28142    2021-11-06 18:29:04,509    Сообщение серверу отправленно
-INFO       28142    2021-11-06 18:29:04,512    Успешный ответ сервера 200
-DEBUG      28142    2021-11-06 18:29:04,512    Function started process_ans with params ({'response': 200, 'success': 'Welcome Guest!'},) {}Вызов из функции main().Вызов из функции main
-INFO       28142    2021-11-06 18:29:04,512    Сообщение от сервера: 200, Welcome Guest!

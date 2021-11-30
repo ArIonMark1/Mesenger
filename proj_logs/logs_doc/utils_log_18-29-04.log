@@ -1,6 +1,0 @@
-INFO       28142    2021-11-06 18:29:04,505    Запуск клиентского сокета <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42342), raddr=('127.0.0.1', 8888)>
-INFO       28142    2021-11-06 18:29:04,509    Кодирование сообщения {'action': 'presence', 'time': 'Sat Nov  6 18:29:04 2021', 'user': {'account_name': 'Guest'}}
-INFO       28142    2021-11-06 18:29:04,509    Возвращаем json-строку
-INFO       28142    2021-11-06 18:29:04,509    энкодированая строка: b'{"action": "presence", "time": "Sat Nov  6 18:29:04 2021", "user": {"account_name": "Guest"}}'
-INFO       28142    2021-11-06 18:29:04,509    Сообщение успешно отправленно
-INFO       28142    2021-11-06 18:29:04,512    Возврат словаря {'response': 200, 'success': 'Welcome Guest!'}

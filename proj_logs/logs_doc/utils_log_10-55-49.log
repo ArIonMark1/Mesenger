@@ -1,8 +1,0 @@
-INFO       14632    2021-11-30 10:55:49,486    Кодирование сообщения {'action': 'presence', 'time': 'Tue Nov 30 10:55:49 2021', 'user': {'account_name': 'arion_8888', 'status': 'online'}}
-INFO       14632    2021-11-30 10:55:49,487    Возвращаем json-строку
-INFO       14632    2021-11-30 10:55:49,487    энкодированая строка: b'{"action": "presence", "time": "Tue Nov 30 10:55:49 2021", "user": {"account_name": "arion_8888", "status": "online"}}'
-INFO       14632    2021-11-30 10:55:49,487    Сообщение успешно отправленно
-CRITICAL   14632    2021-11-30 11:01:20,821    400: Ошибка данных сообщения!!!!
-INFO       14632    2021-11-30 11:01:41,220    Кодирование сообщения {'action': 'message', 'time': 'Tue Nov 30 11:01:41 2021', 'user': {'account_name': 'arion_8888'}, 'text_mess': 'hello'}
-INFO       14632    2021-11-30 11:01:41,221    Возвращаем json-строку
-INFO       14632    2021-11-30 11:01:41,221    энкодированая строка: b'{"action": "message", "time": "Tue Nov 30 11:01:41 2021", "user": {"account_name": "arion_8888"}, "text_mess": "hello"}'

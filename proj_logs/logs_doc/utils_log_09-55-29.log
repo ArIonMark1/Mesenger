@@ -1,2 +1,0 @@
-INFO       9372     2021-11-30 09:55:35,596    Возврат словаря {'action': 'presence', 'time': 'Tue Nov 30 09:55:34 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
-INFO       9372     2021-11-30 10:00:39,351    Возврат словаря {'action': 'presence', 'time': 'Tue Nov 30 10:00:38 2021', 'user': {'account_name': 'arion_8888', 'status': 'online'}}

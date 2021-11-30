@@ -1,4 +1,0 @@
-INFO       23976    2021-11-29 18:51:00,221    Кодирование сообщения {'action': 'presence', 'time': 'Mon Nov 29 18:51:00 2021', 'user': {'account_name': 'arion', 'status': 'online'}}
-INFO       23976    2021-11-29 18:51:00,221    Возвращаем json-строку
-INFO       23976    2021-11-29 18:51:00,221    энкодированая строка: b'{"action": "presence", "time": "Mon Nov 29 18:51:00 2021", "user": {"account_name": "arion", "status": "online"}}'
-INFO       23976    2021-11-29 18:51:00,222    Сообщение успешно отправленно

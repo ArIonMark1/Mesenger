@@ -1,5 +1,0 @@
-INFO       8804     2021-11-23 11:30:15,509    Client Started!
-CRITICAL   8804     2021-11-23 11:30:15,509    Client connected to server
-INFO       8804     2021-11-23 11:30:15,517    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Tue Nov 23 11:30:15 2021', 'user': {'account_name': 'Guest', 'status': 'online'}, 'type': 'status'}
-DEBUG      8804     2021-11-23 11:30:15,532    Function started create_presence with params (<__main__.Client object at 0x0000020A4BD48E50>,) {}Вызов из функции client.set_up().Вызов из функции set_up
-INFO       8804     2021-11-23 11:30:15,533    Сообщение серверу отправленно

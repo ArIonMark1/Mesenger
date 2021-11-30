@@ -1,4 +1,0 @@
-INFO       10052    2021-11-30 18:06:21,171    Кодирование сообщения {'action': 'presence', 'time': 'Tue Nov 30 18:06:21 2021', 'user': {'account_name': 'Guest', 'status': 'online'}}
-INFO       10052    2021-11-30 18:06:21,171    Возвращаем json-строку
-INFO       10052    2021-11-30 18:06:21,171    энкодированая строка: b'{"action": "presence", "time": "Tue Nov 30 18:06:21 2021", "user": {"account_name": "Guest", "status": "online"}}'
-INFO       10052    2021-11-30 18:06:21,171    Сообщение успешно отправленно

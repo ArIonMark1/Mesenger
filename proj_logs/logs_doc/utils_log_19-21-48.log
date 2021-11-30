@@ -1,5 +1,0 @@
-CRITICAL   5444     2021-11-28 19:21:54,593    400: Ошибка данных сообщения!!!!
-INFO       5444     2021-11-28 19:34:42,318    Возврат словаря {'action': 'presence', 'time': 'Sun Nov 28 19:34:41 2021', 'user': {'account_name': 'aim', 'status': 'online'}}
-INFO       5444     2021-11-28 19:37:34,752    Возврат словаря {'action': 'presence', 'time': 'Sun Nov 28 19:37:34 2021', 'user': {'account_name': ['arion'], 'status': 'online'}}
-INFO       5444     2021-11-28 19:37:44,469    Возврат словаря {'action': 'presence', 'time': 'Sun Nov 28 19:37:43 2021', 'user': {'account_name': ['arion'], 'status': 'online'}}
-INFO       5444     2021-11-28 19:38:51,769    Возврат словаря {'action': 'presence', 'time': 'Sun Nov 28 19:38:50 2021', 'user': {'account_name': 'arion', 'status': 'online'}}

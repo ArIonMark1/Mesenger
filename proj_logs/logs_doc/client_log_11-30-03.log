@@ -1,9 +1,0 @@
-INFO       17296    2021-11-23 11:30:03,719    Client Started!
-CRITICAL   17296    2021-11-23 11:30:03,719    Client connected to server
-INFO       17296    2021-11-23 11:30:03,726    Сформированое сообщение для сервера {'action': 'presence', 'time': 'Tue Nov 23 11:30:03 2021', 'user': {'account_name': 'Guest', 'status': 'online'}, 'type': 'status'}
-DEBUG      17296    2021-11-23 11:30:03,741    Function started create_presence with params (<__main__.Client object at 0x00000172FD238E50>,) {}Вызов из функции client.set_up().Вызов из функции set_up
-INFO       17296    2021-11-23 11:30:03,742    Сообщение серверу отправленно
-DEBUG      17296    2021-11-23 11:30:16,527    Function started process_ans with params (<__main__.Client object at 0x00000172FD238E50>, None) {}Вызов из функции client.set_up().Вызов из функции set_up
-INFO       17296    2021-11-23 11:30:16,527    Сообщение от сервера: None
-INFO       17296    2021-11-23 11:30:36,101    Сформированый словать сообщения для клиентов.
-INFO       17296    2021-11-23 11:30:36,102    {'action': 'message', 'time': 'Tue Nov 23 11:30:36 2021', 'user': {'account_name': 'Guest'}, 'text_mess': 'hello'} сообщение было отправленно на сервер.
